@@ -12,6 +12,6 @@ With that said, use is at your own risk.
 
 # known issues
 
-- [] The source code is quite large, because of unused files.
-- [] Currently we use an windows script to run ffmpeg
-- [] The programme is a little bit slow and storage heavy
+- The source code is quite large, because of unused files.
+- Currently we use an windows script to run ffmpeg
+- The programme is a little bit slow and storage heavy
