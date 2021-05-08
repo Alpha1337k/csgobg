@@ -1,7 +1,7 @@
 # csgobg
-Change CSGO's Panorama UI backgounds
+Change CSGO's Panorama UI backgrounds
 
-This converter changes the standard backgound of the Panorama UI to an custom one.
+This converter changes the standard background of the Panorama UI to an custom one.
 Supported formats are JPG,BMP,PNG,MP4,AVI,WEBM, and possibly more.
 Backgrounds do get reset every update, nothing i can do about that.
 
